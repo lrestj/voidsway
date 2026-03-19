@@ -79,7 +79,7 @@
 ### Keybindings
     bindsym $mod+a exec $TERMINAL
     bindsym $mod+y exec foot --app-id yazi -e yazi
-    bindsym $mod+Comma exec $TERMINAL --app-id btop -e btop
+    bindsym $mod+Comma exec $TERMINAL --class btop -e btop
     bindsym $mod+e exec $editor
     bindsym $mod+b exec $browser
     bindsym $mod+t exec thunar

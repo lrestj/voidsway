@@ -72,7 +72,7 @@
         "critical-threshold": 80,
         "format": " {icon} {temperatureC} °C  ",
         "format-icons": ["", "", ""],
-        "on-click": "pkill btop || $TERMINAL --app-id btop -e btop",
+        "on-click": "pkill btop || $TERMINAL --class btop -e btop",
         "on-click-right": ""
     },
 
