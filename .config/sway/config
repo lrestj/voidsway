@@ -37,7 +37,7 @@
     set $ca Ctrl+Alt
     set $ma Mod4+Alt
     set $ms Mod4+Shift
-    set $editor $TERMINAL --app-id vim -e vim
+    set $editor alacritty --class vim -e vim
     set $browser brave-browser
     set $menu fuzzel
     set $filemgr thunar
@@ -159,7 +159,7 @@
     bindsym $ma+Up move container to workspace 4; workspace 4
 
     # Center window and move it to corners
-    bindsym $mod+KP_0 floating toggle, resize set 1300 900
+    bindsym $mod+KP_0 floating toggle, resize set 1385 900
     bindsym $mod+KP_7 floating enable, resize set 50ppt 50ppt, move position 0ppt 0ppt
     bindsym $mod+KP_8 floating enable, resize set 50ppt 50ppt, move position 50ppt 0
     bindsym $mod+KP_4 floating enable, resize set 50ppt 50ppt, move position 0 50ppt 
@@ -205,7 +205,7 @@
     for_window [title="Authentication required"] floating enable
     for_window [title="xeyes"] floating enable, move position 880 5
     for_window [title="Rozbalení"] floating enable
-    for_window [app_id="btop"] floating enable, resize set 1300  900 
+    for_window [app_id="btop"] floating enable, resize set 1385  900 
     for_window [app_id="update"] floating enable, resize set 900  600 
     for_window [class="Vlc"] floating enable
     for_window [app_id="mpv"] floating enable
