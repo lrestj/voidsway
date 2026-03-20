@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Yazi
-Icon=yazi
+Icon=/home/libor/.dotfiles/icons/yazi.svg
 Comment=Blazing fast terminal file manager written in Rust, based on async I/O
 Terminal=false
 TryExec=yazi
