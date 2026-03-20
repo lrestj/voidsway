@@ -1,2 +1,2 @@
 #!/bin/bash
-xhost +si:localuser:root > /dev/null
+xhost +si:localuser:root
