@@ -37,8 +37,6 @@
     set $ca Ctrl+Alt
     set $ma Mod4+Alt
     set $ms Mod4+Shift
-    set $editor alacritty --class vim -e vim
-    set $browser brave-browser
     set $menu fuzzel
     set $filemgr thunar
 
@@ -77,9 +75,9 @@
 
 ### Keybindings
     bindsym $mod+a exec $TERMINAL
-    bindsym $mod+y exec foot --app-id yazi -e yazi
-    bindsym $mod+Comma exec $TERMINAL --class btop -e btop
-    bindsym $mod+e exec $editor
+    bindsym $mod+y exec $TERMINAL --app-id yazi -e yazi
+    bindsym $mod+Comma exec $TERMINAL --app-id btop -e btop
+    bindsym $mod+e exec $EDITOR
     bindsym $mod+b exec $BROWSER
     bindsym $mod+t exec thunar
     bindsym $mod+p exec mpv --player-operation-mode=pseudo-gui
