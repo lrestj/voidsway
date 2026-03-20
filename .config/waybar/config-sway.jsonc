@@ -110,7 +110,7 @@
    "custom/browser": {
         "format":"      ",
         "tooltip-format": "Internet",
-        "on-click": "brave-browser"
+        "on-click": "$BROWSER"
     },
 
     "idle_inhibitor": {

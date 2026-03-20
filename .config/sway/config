@@ -80,7 +80,7 @@
     bindsym $mod+y exec foot --app-id yazi -e yazi
     bindsym $mod+Comma exec $TERMINAL --class btop -e btop
     bindsym $mod+e exec $editor
-    bindsym $mod+b exec $browser
+    bindsym $mod+b exec $BROWSER
     bindsym $mod+t exec thunar
     bindsym $mod+p exec mpv --player-operation-mode=pseudo-gui
     bindsym $mod+k exec pkill $kalk || $kalk
