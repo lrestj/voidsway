@@ -20,12 +20,13 @@
     # Focus
     for_window [urgent="latest"] focus
     focus_follows_mouse no
+    workspace_layout default
 
 ### Cursor theme
     # seat seat0 xcursor_theme Banana 32
     seat seat0 xcursor_theme Bibata-Modern-Classic 28
 
-### Status Bar:
+### Status Bar:fa
     bar {
         swaybar_command waybar-sway
         position top
