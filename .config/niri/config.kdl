@@ -170,11 +170,12 @@ binds {
     Super+B hotkey-overlay-title="Brave browser" { spawn-sh "$BROWSER"; }
     Super+E hotkey-overlay-title="Vim" { spawn-sh "$EDITOR"; }
     Mod+Y hotkey-overlay-title="Open a Yazi" { spawn-sh "foot --app-id yazi -e yazi"; }
+    Mod+C hotkey-overlay-title="Clipboard" { spawn-sh "pkill fuzzel || cliphist-fuzzel-img"; }
+    Mod+Return hotkey-overlay-title="Waybar toggle" { spawn-sh "pkill waybar || waybar-niri"; }
+    Mod+Alt+Return hotkey-overlay-title="Taskbar toggle" { spawn-sh "pkill waybar && waybar --config ~/.config/waybar/config-taskbar"; }
 
     // Use spawn-sh to run a shell command. Do this if you need pipes, multiple commands, etc.
     // Note: the entire command goes as a single argument. It's passed verbatim to `sh -c`.
-    // For example, this is a standard bind to toggle the screen reader (orca).
-    Super+Alt+S allow-when-locked=true hotkey-overlay-title=null { spawn-sh "pkill orca || exec orca"; }
 
     // Example volume keys mappings for PipeWire & WirePlumber.
     // The allow-when-locked=true property makes them work even when the session is locked.
@@ -229,7 +230,7 @@ binds {
     // Mod+K     { focus-window-or-workspace-up; }
     // Mod+Ctrl+J     { move-window-down-or-to-workspace-down; }
     // Mod+Ctrl+K     { move-window-up-or-to-workspace-up; }
-
+    
     Mod+Home { focus-column-first; }
     Mod+End  { focus-column-last; }
     Mod+Ctrl+Home { move-column-to-first; }
