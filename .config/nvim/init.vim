@@ -12,15 +12,8 @@
     noremap <leader>a :normal! ggV$G$<CR>
     command! W execute 'SudaWrite<CR>'
 
-    "Windows focus, rearrange and swap
-    noremap <C-j> <C-w>j
-    noremap <C-k> <C-w>k
-    noremap <C-h> <C-w>h
-    noremap <C-l> <C-w>l
-    noremap <C-n> <C-w>w
+    "Windows rearrange
     noremap <leader>r <C-w>r
-    noremap <leader>l <C-w>L
-    noremap <leader>h <C-w>H
 
     "Buffers prev, next, delete,show and new vertical split
     noremap <leader>b :bp<CR>
@@ -46,26 +39,23 @@
 
     "Optional settings
     colorscheme wildcharm
-    set background=dark   
-    filetype plugin indent on
     set title titlestring=%F
-    set ruler rulerformat=%43(\ \ %v\ \ \ %l/%L\ \ %p%%%=\ \ \%)
-    set cul
+    set rulerformat=%43(\ \ %v\ \ \ %l/%L\ \ %p%%%=\ \ \%)
+    set cul nu lz
     set directory=~/Public/
     set ignorecase smartcase
-    set lazyredraw
-    set number
     set scrolloff=2
     set showmatch mat=2
     set spelllang=cs,en
     set softtabstop=4 shiftwidth=4 expandtab
     set wildcharm=<Tab>
     set shada=!,'30,<50,s10,h
+    set undofile undolevels=5000
     let g:suda#prompt = 'Heslo: '
 
-    "Statusline
+    "Statusline & gui background
     set laststatus=1
-    highlight StatusLine guifg=#1c1c1c guibg=#aabbcc
+    highlight StatusLine guifg=#005f00 guibg=#000000
     high Normal guibg=#1c1c1c
     high NonText guibg=#1c1c1c
     high LineNr guibg=n#1c1c1c
