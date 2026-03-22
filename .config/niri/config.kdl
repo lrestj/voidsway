@@ -64,7 +64,7 @@ cursor {
 }
 
 layout {
-    gaps 2
+    gaps 4
     center-focused-column "never"
 
     // You can customize the widths that "switch-preset-column-width" (Mod+R) toggles between.
