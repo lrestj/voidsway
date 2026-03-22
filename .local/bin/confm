@@ -24,17 +24,17 @@ ji="\0icon\x1fadd"
 selected=$(echo -e "1\t$e$ei\n2v\t$a$ai\n3y\t$b$bi\n4w\t$c$ci\n5m\t$d$di\n6s\t$f$fi\n7c\t$g$gi\n8f\t$h$hi\n9p\t$i$ii\n0a\t$j$ji" | fuzzel --match-nth 1 --with-nth 2 --accept-nth 2 --lines 17 --auto-select -d )
 case $selected in
     "$a")
-        foot bash -c "sleep 0.1; exec vim ~/.config/vim/vimrc";;
+        foot --app-id vim bash -c "sleep 0.1; exec vim ~/.config/vim/vimrc";;
     "$b")
-        foot bash -c "sleep 0.1; exec vim ~/.config/yazi/keymap.toml";;
+        foot --app-id vim bash -c "sleep 0.1; exec vim ~/.config/yazi/keymap.toml";;
     "$c")
-        foot bash -c "sleep 0.1; exec vim ~/.config/waybar/config-sway.jsonc";;
+        foot --app-id vim bash -c "sleep 0.1; exec vim ~/.config/waybar/config-sway.jsonc";;
     "$d")
-        foot bash -c "sleep 0.1; exec vim ~/.config/mako/config";;
+        foot --app-id vim bash -c "sleep 0.1; exec vim ~/.config/mako/config";;
     "$e")
-        foot bash -c "sleep 0.1; exec vim ~/.config/sway/config";;
+        foot --app-id vim bash -c "sleep 0.1; exec vim ~/.config/sway/config";;
     "$f")
-        foot bash -c "sleep 0.1; exec vim ~/.dotfiles/other/stuff2remember.txt";;
+        foot --app-id vim bash -c "sleep 0.1; exec vim ~/.dotfiles/other/stuff2remember.txt";;
     "$g")
         $TERMINAL -e vim ~/.dotfiles/nixos/hosts/zbook/configuration.nix;;
     "$h")
