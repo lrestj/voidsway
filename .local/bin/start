@@ -3,7 +3,9 @@
 echo "HOLA, VYBER SEZENÍ:"
 echo "n) NIRI"
 echo "s) SWAY"
-read -n 1 wm_choice
+echo "r) RESTARTOVAT"
+echo "x) VYPNOUT"
+read -t 15 -n 1 wm_choice
 case $wm_choice in
 n)
 exec dbus-run-session /usr/bin/niri --session
@@ -11,8 +13,17 @@ exec dbus-run-session /usr/bin/niri --session
 s)
 exec dbus-run-session sway-run
 ;;
+x)
+echo "Vypínání..."
+sleep 1
+;;
+r)
+echo "Restart..."
+sleep 1
+exec loginctl reboot
+;;
 *)
-echo "Neplatná volba, spouštím SWAY"
+echo "NEZVOLENO, SPOUŠTÍM SWAY"
 sleep 1
 exec dbus-run-session sway-run
 ;;
