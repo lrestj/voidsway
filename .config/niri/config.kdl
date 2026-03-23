@@ -122,7 +122,7 @@ window-rule {
 
 binds {
     Mod+Shift+comma { show-hotkey-overlay; }
-    Mod+L hotkey-overlay-title="Swaylock" { spawn "lockscreen"; }
+    Mod+X hotkey-overlay-title="PowerMenu" { spawn "powercenterniri"; }
     Mod+N hotkey-overlay-title="Config menu" { spawn "confm"; }
     Mod+T hotkey-overlay-title="Open a Thunar" { spawn "thunar"; }
     Mod+K hotkey-overlay-title="Open a Galculator" { spawn "galculator"; }
@@ -259,7 +259,6 @@ binds {
     Mod+Escape allow-inhibiting=false { toggle-keyboard-shortcuts-inhibit; }
 
     // The quit action will show a confirmation dialog to avoid accidental exits.
-    Mod+x { quit; }
     Ctrl+Alt+Delete { quit; }
     Mod+Shift+P { power-off-monitors; }
 }
