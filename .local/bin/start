@@ -1,14 +1,14 @@
 #!/bin/bash
 
-echo "#########################"
-echo "#                       #"
-echo "#  HOLA, VYBER SEZENÍ:  #"
-echo "#  n) NIRI              #"
-echo "#  s) SWAY              #"
-echo "#  r) RESTARTOVAT       #"
-echo "#  x) VYPNOUT           #"
-echo "#                       #"
-echo "#########################"
+echo "##############################"
+echo "#                            #"
+echo "#  HOLA, VYBER SEZENÍ:       #"
+echo "#  n) NIRI                   #"
+echo "#  s) SWAY                   #"
+echo "#  r) RESTARTOVAT            #"
+echo "#  x) VYPNOUT                #"
+echo "#                            #"
+echo "##############################"
 read -t 15 -n 1 -s wm_choice
 case $wm_choice in
 n)
