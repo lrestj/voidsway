@@ -101,7 +101,7 @@
    "custom/fm": {
         "format":"        ",
         "tooltip-format": "Soubory",
-        "on-click": "nautilus"
+        "on-click": "nemo"
     },
 
    "custom/browser": {

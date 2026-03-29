@@ -4,3 +4,7 @@ Authentication error:
 
 # Vim bad rendering fix
 foot --app-id vim bash -c "sleep 0.1; exec vim
+
+# Default terminal for Nemo
+gsettings set org.cinnamon.desktop.default-applications.terminal exec foot
+
