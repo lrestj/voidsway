@@ -53,7 +53,6 @@
 ; (gtk_accel_path "<Actions>/ThunarWindow/cancel-search" "Escape")
 ; (gtk_accel_path "<Actions>/ThunarWindow/zoom-in-alt2" "<Primary>equal")
 ; (gtk_accel_path "<Actions>/ThunarStatusBar/toggle-hidden-count" "")
-; (gtk_accel_path "<Actions>/ThunarBookmarks/d21e81d46a8cfd027593b217bbba10a8" "")
 ; (gtk_accel_path "<Actions>/ThunarShortcutsPane/sendto-shortcuts" "<Primary>d")
 ; (gtk_accel_path "<Actions>/ThunarActionManager/undo" "<Primary>z")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/toggle-sort-order" "")
