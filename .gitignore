@@ -95,3 +95,4 @@ void-mklive/
 void/
 Templates/
 .local/share/nautilus/tags/
+.dbus/
