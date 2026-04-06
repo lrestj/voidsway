@@ -13,10 +13,10 @@ sudo xbps-install -S void-repo-nonfree  &&
 sudo xbps-install -S intel-ucode
 
 while true; do
-    read -r -p "Nainstalovat NVIDIA? (A/N): " answer
+    read -r -n 1 -p "Nainstalovat NVIDIA? (A/N): " answer
     case $answer in
         [Aa]* ) sudo xbps-install -S nvidia; break;;
-        [Nn]* ) exit;;
+        [Nn]* ) break;;
         * ) echo "Vyberte A, nebo N.";;
     esac
 done
