@@ -43,6 +43,10 @@ palette = {
 
 # Background color of the tab bar.
 # Type: QtColor
+
+c.colors.completion.item.selected.bg = '#8000ff'
+# c.colors.completion.item.selected.fg = '#ffffff'
+
 c.colors.tabs.bar.bg = palette['selection']
 
 # Background color of unselected even tabs.

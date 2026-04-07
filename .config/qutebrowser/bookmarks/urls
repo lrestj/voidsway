@@ -1,2 +1,170 @@
 https://sdilej.cz/ Sdilej.cz - sdílej soubory zdarma - náhrada za ulož to
 https://prehraj.to/ Přehraj.to - Sledování a stahování neomezeně
+https://192.168.77.18:5001/#/signin Synology Nas
+https://tailscale.com/kb/1131/synology#manual-installation-steps Access Synology NAS from anywhere · Tailscale Docs
+https://tailscale.com/kb/1103/exit-nodes Exit nodes (route all traffic) · Tailscale Docs
+https://www.wundertech.net/how-to-set-up-tailscale-on-a-synology-nas/#4_Exit_Node How to Set up Tailscale on a Synology NAS in 2025
+https://m.youtube.com/watch?v=0o2EhK-QvmY Remotely access your Synology from anywhere with Tailscale - YouTube
+https://github.com/007revad/Synology_HDD_db/blob/main/my-other-scripts.md Synology_HDD_db/my-other-scripts.md at main · 007revad/Synology_HDD_db
+https://github.com/mpv-player/mpv/blob/master/etc/mpv.conf mpv/etc/mpv.conf at master · mpv-player/mpv
+https://github.com/jonniek/mpv-filenavigator/blob/master/navigator.lua mpv-filenavigator/navigator.lua at master · jonniek/mpv-filenavigator
+https://github.com/po5/memo?tab=readme-ov-file po5/memo: A recent files menu for mpv
+https://thomashunter.name/posts/2019-01-27-treating-openbox-like-a-tiling-windowmanager Treating OpenBox like a Tiling WindowManager - Thomas Hunter II
+https://lecorbeausvault.wordpress.com/2020/04/06/openbox-quick-window-manipulations-with-keybindings/ Openbox: Quick Window Manipulations with Keybindings – LeCorbeau's Vault
+https://blog.sebastian-daschner.com/entries/linux-terminal-font-alacritty-jetbrains-mono-emoji Modern Linux Terminal With Alacritty, JetBrains Mono & Emojis - Sebastian Daschner
+https://wiki.debian.org/NvidiaGraphicsDrivers NvidiaGraphicsDrivers - Debian Wiki
+https://github.com/mexersus/debian-nvidia-drivers mexersus/debian-nvidia-drivers: Explanatory : how to install official Nvidia drivers on Debian 12 and Debian 13
+https://mark.stosberg.com/fuzzel-a-great-dmenu-and-rofi-altenrative-for-wayland/ Fuzzel: A great dmenu and rofi alternative for Wayland
+https://github.com/marty-oehme/bemoji marty-oehme/bemoji: Emoji picker that remembers your favorites, with support for bemenu/wofi/rofi/dmenu and wayland/X11.
+https://github.com/EndeavourOS-Community-Editions/sway EndeavourOS-Community-Editions/sway: EndeavourOS Community Edition setup for sway
+https://manpages.ubuntu.com/manpages/jammy/man5/sway.5.html Ubuntu Manpage: sway - configuration file and commands
+https://github.com/jjquin/swayarch/blob/master/.config/sway/config.d/window_rules swayarch/.config/sway/config.d/window_rules at master · jjquin/swayarch
+https://gitlab.com/jokeyrhyme/dotfiles/-/blob/main/usr/local/bin/dotfiles-sway.sh usr/local/bin/dotfiles-sway.sh · main · Ron Waldon-Howe-Howe / dotfiles · GitLab
+https://github.com/swaywm/sway/wiki Sway Wiki
+https://github.com/colemickens/nixpkgs-wayland colemickens/nixpkgs-wayland: You should switch to nix-community/nixpkgs-wayland. -- This is now my personal dev fork.
+https://simondalvai.org/blog/debian-sway-v1/ Debian Sway v1 - My first setup - Simon Dalvai
+https://discourse.nixos.org/t/nvidia-settings-and-nvidia-offload-not-found/37187/16 Nvidia-settings and nvidia-offload not found - Help - NixOS Discourse
+https://search.nixos.org/packages NixOS Search - Packages
+https://nixos.wiki/wiki/Configuration_Collection Configuration Collection - NixOS Wiki
+https://github.com/NixOS/nixpkgs/issues/78535 Declarative printer configuration fails if printer unavailable 
+https://nixos-and-flakes.thiscute.world/nixos-with-flakes/get-started-with-nixos NixOS & Flakes Book
+https://github.com/NixOS/nixpkgs/issues/37857 printing hplip: - hp-toolbox (HP Device Manager) broken, needs pkg depends · Issue #37857 · NixOS/nixpkgs · GitHub
+https://librephoenix.com/2024-05-06-different-rollback-methods-in-nixos.html Different Rollback Methods in NixOS
+https://nixos.org/manual/nixpkgs/stable/#custom-configuration Nixpkgs Reference Manual
+https://mynixos.com/options Options - MyNixOS
+https://nixos.org/manual/nixos/stable/#sec-configuration-syntax NixOS Manual
+https://github.com/NixOS/nixos-hardware?tab=readme-ov-file NixOS/nixos-hardware: A collection of NixOS modules covering hardware quirks.
+https://nixos.wiki/wiki/Accelerated_Video_Playback Accelerated Video Playback - NixOS Wiki
+https://cbarrete.com/how-to-start-using-nix.html How to start using Nix
+https://m.youtube.com/watch?v=JCeYq72Sko0&t=23s&pp=2AEXkAIB Ultimate Nix Flakes Guide - YouTube
+https://github.com/haslersn/any-nix-shell haslersn/any-nix-shell: fish and zsh support for the nix run and nix-shell environments of the Nix package manager
+https://github.com/gmodena/nix-flatpak gmodena/nix-flatpak: Install flatpaks declaratively
+https://github.com/ferife/nixConfig/blob/dce012c3d27c8ac5a65fe2705fb2b5ade499fb7e/nixos/modules/desktop-environments/login-managers/regreet.nix Regreet.nix
+https://mcwhirter.com.au/craige/blog/2019/Deploying_and_Configuring_Vim_on_NixOS/ mcwhirter.com.au/craige/blog/2019/Deploying and Configuring Vim on NixOS
+https://github.com/davatorium/rofi davatorium/rofi: Rofi: A window switcher, application launcher and dmenu replacement
+https://github.com/Alexays/Waybar/wiki/Configuration#bar-config= Configuration · Alexays/Waybar Wiki
+https://github.com/JaKooLit/Hyprland-Dots/tree/main/config/waybar Hyprland-Dots/config/waybar at main · JaKooLit/Hyprland-Dots
+https://forum.garudalinux.org/t/how-to-add-png-jpg-svg-icons-to-waybar/32503 How to add .png/.jpg/.svg icons to waybar - Issues & Assistance / Hyprland - Garuda Linux Forum
+https://github.com/Alexays/Waybar/pull/3247 Adding the ability to have dropdown menu for modules by benjamin-voisin · Pull Request #3247 · Alexays/Waybar
+https://github.com/Alexays/Waybar/issues/3334 [SOLVED] Waybar expands from 29 pixels to 37 when wlr/taskbar module is added with identical icon size to other modules · Issue #3334 · Alexays/Waybar
+https://linuxconfig.org/how-to-install-configure-and-customize-waybar-on-linux Install Waybar Linux: Configuration & Styling Guide
+https://www.mankier.com/5/mako mako: configuration file | mako File Formats | Man Pages | ManKier
+https://linuxconfig.org/how-to-send-desktop-notifications-using-notify-send How to send desktop notifications using notify-send - LinuxConfig
+https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/ Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners
+https://askubuntu.com/questions/808377/fish-alias-with-a-variable-in-the-middle command line - fish alias with a variable in the middle? - Ask Ubuntu
+https://github.com/jorgebucaran/cookbook.fish/blob/main/README.md#all-about-variables cookbook.fish/README.md at main · jorgebucaran/cookbook.fish
+https://www.digitalocean.com/community/tutorials/if-else-in-shell-scripts Shell Script if else: Comprehensive Guide with Examples | DigitalOcean
+https://www.cyberciti.biz/faq/bash-check-if-process-is-running-or-notonlinuxunix/ Bash check if process is running or not on Linux / Unix - nixCraft
+https://gist.github.com/gblmarquez/926c22db9e1702b1ad73 .tmux.conf with fish as default shell
+https://www.warp.dev/terminus/bash-if-statement Warp: How to Use the If Statement in Bash
+https://linuxize.com/post/bash-case-statement/ Bash Case Statement | Linuxize
+https://tldr.inbrowser.app/pages/linux/fuzzel fuzzel | tldr InBrowser.App
+https://linuxcommand.org/lc3_man_pages/testh.html test man page
+https://dev.to/iggredible/tmux-tutorial-for-beginners-5c52 Tmux Tutorial for Beginners - DEV Community
+https://codeberg.org/dnkl/foot/issues/453 #453 - Add a 'wait-for-mapped' option - dnkl/foot - Codeberg.org
+https://github.com/dedukun/bookmarks.yazi dedukun/bookmarks.yazi
+https://github.com/KKV9/compress.yazi KKV9/compress.yazi: A Yazi plugin that compresses selected files to an archive.
+https://github.com/yazi-rs/plugins/tree/main/jump-to-char.yazi plugins/jump-to-char.yazi at main · yazi-rs/plugins
+https://github.com/mikavilpas/yazi.nvim?tab=readme-ov-file mikavilpas/yazi.nvim: A Neovim Plugin for the yazi terminal file manager
+https://github.com/sxyazi/yazi/issues/1772 Migrating to Yazi v0.4.0 · Issue #1772 · sxyazi/yazi
+https://github.com/Konfekt/filepicker.vim Konfekt/filepicker.vim: Preview and select files on-the-fly inside (N)Vim by a miller like LF, Ranger, Yazi or Nnn
+https://discourse.nixos.org/t/autologin-hyprland/38159/12 Autologin Hyprland - Help - NixOS Discourse
+https://github.com/equk/dotfiles/tree/master/configs/bin dotfiles/configs/bin at master · equk/dotfiles
+https://github.com/justinmdickey/publicdots/blob/main/.config/hypr/hyprlock.conf publicdots/.config/hypr/hyprlock.conf at main · justinmdickey/publicdots
+https://github.com/hyprland-community/awesome-hyprland Awesome list for Hyprland
+https://wiki.hyprland.org/Configuring/Binds/ Binds – Hyprland Wiki
+https://wiki.hyprland.org/Configuring/Window-Rules/ Window Rules – Hyprland Wiki
+https://github.com/hyprwm/Hyprland/discussions/2889 Change border color to all special workspaces · hyprwm/Hyprland · Discussion #2889
+https://www.google.com/search?q=disable+touchpad+when+mouse+is+connected+in+hyprland&sca_esv=424c43a6ff8f1b50&sxsrf=AE3TifN4eaVFUs88Y-o05C3-DGIJ4zzIuQ%3A1748769743172&ei=zxs8aJmrCqOhi-gPoMeK2Ak&oq=disable+touchpad+when+mouse+is+connected+in+hyprland&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIjRkaXNhYmxlIHRvdWNocGFkIHdoZW4gbW91c2UgaXMgY29ubmVjdGVkIGluIGh5cHJsYW5kMgUQABjvBTIFEAAY7wUyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogRIwZcBUJM6WPGKAXACeACQAQCYAdsBoAHbD6oBBTQuOS4yuAEDyAEA-AEBmAIQoALvEMICChAAGLADGNYEGEfCAgQQIxgnwgIIECEYoAEYwwTCAgoQIRigARjDBBgKwgIEECEYCpgDAIgGAZAGCJIHBjMuMTEuMqAHk1-yBwYxLjExLjK4B9oQwgcHMi0xLjguN8gHhQI&sclient=mobile-gws-wiz-serp disable touchpad when mouse is connected in hyprland - Hledat Googlem
+https://github.com/rharish101/ReGreet rharish101/ReGreet: Clean and customizable greeter for greetd
+https://wiki.hypr.land/Nix/Hyprland-on-NixOS/ Hyprland on NixOS – Hyprland Wiki
+https://discourse.nixos.org/t/nixos-ozone-wl-1-seemingly-not-having-any-affect/56776 `NIXOS_OZONE_WL=1` seemingly not having any affect? - Help - NixOS Discourse
+https://discourse.nixos.org/t/nixos-ozone-wl-1-seemingly-not-having-any-affect/56776/3 `NIXOS_OZONE_WL=1` seemingly not having any affect? - Help - NixOS Discourse
+https://www.emadelsaid.com/Open%20application%20in%20workspace%20Hyprland/ Open application in workspace Hyprland | Emad Elsaid
+https://ostechnix.com/restore-broken-arch-linux-previous-working-state/ How To Restore Broken Arch Linux To Previous Working State
+https://www.reddit.com/r/linuxquestions/comments/1cmieno/add_manual_grub_entries_for_opensuse_tumbleweed/ add manual grub entries for opensuse tumbleweed and Fedora : r/linuxquestions
+https://forum.endeavouros.com/t/tutorial-convert-to-systemd-boot/13290 [Tutorial] Convert to systemd-boot - General system - EndeavourOS
+https://forum.endeavouros.com/t/how-to-list-explicitly-installed-packages-but-not-by-calamares/54796/6 Installed pkgs eOS
+https://docs.vultr.com/building-packages-on-arch-linux Building Packages on Arch Linux (Including the AUR)
+https://discovery.endeavouros.com/installation/customizing-the-endeavouros-install-process/2022/03/ Customizing the EndeavourOS install
+https://discovery.endeavouros.com/installation/bash-customizations/2024/04/ Bash customizations
+https://www.keycdn.com/blog/vim-commands Popular Vim Commands - Comprehensive Vim Cheat Sheet - KeyCDN
+https://www.shortcutfoo.com/app/dojos/neovim/cheatsheet Neovim Cheat Sheet | ShortcutFoo
+https://www.reddit.com/r/vim/comments/oyqkkd/your_most_frequently_used_mapping/ Your most frequently used mapping : r/vim
+https://vi.stackexchange.com/questions/36288/add-incrementing-numbers-to-lines substitute - Add incrementing numbers to lines - Vi and Vim Stack Exchange
+https://learnbyexample.github.io/vim_reference/Normal-mode.html Normal mode - Vim Reference Guide
+https://vimtricks.com/p/50-useful-vim-commands/ 50 Useful Vim Commands - VimTricks
+https://github.com/junegunn/fzf.vim junegunn/fzf.vim: fzf vim
+https://vim.rtorr.com/ Vim Cheat Sheet
+https://github.com/mhinz/vim-startify mhinz/vim-startify: :link: The fancy start screen for Vim.
+https://vimdoc.sourceforge.net/htmldoc/options.html#'laststatus' Vim documentation: options
+https://dev.to/iggredible/how-to-search-faster-in-vim-with-fzf-vim-36ko How to search faster in Vim with FZF.vim - DEV Community
+https://vimhelp.org/options.txt.html#%27statusline%27 Vim: options.txt
+https://thevaluable.dev/fzf-vim-integration/ A Practical Guide to fzf: Vim Integration
+https://www.reddit.com/r/neovim/comments/tz6p7i/how_can_we_set_color_for_each_part_of_statusline/ How can we set color for each part of statusline separately? : r/neovim
+https://github.com/Rolv-Apneseth/tfm.nvim Rolv-Apneseth/tfm.nvim: Neovim plugin for terminal file manager integration
+https://neovim.io/doc/user/starting.html Starting - Neovim docs
+https://neovim.io/doc/user/quickref.html#option-list Neovim options
+https://neovim.io/doc/user/vim_diff.html Vim_diff - Neovim docs
+https://zdrojak.cz/clanky/vimdiff-nastroj-drsnaku/ Vimdiff - nástroj drsňáků - Zdroják
+https://github.com/jasonccox/vim-wayland-clipboard jasonccox/vim-wayland-clipboard: Integrate Vim's '+' register with the Wayland system clipboard
+https://github.com/junegunn/vim-peekaboo junegunn/vim-peekaboo: :eyes: " / @ / CTRL-R
+https://sidneyliebrand.medium.com/vim-tip-persistent-undo-2fc78a2973a7 Vim tip: persistent undo. I stopped writing on Medium.com and now… | by Sidney Liebrand | Medium
+https://github.com/ycm-core/YouCompleteMe/wiki/Building-Vim-from-source Building Vim from source · ycm-core/YouCompleteMe Wiki
+https://github.com/unixbhaskar/AdminScripts/blob/master/vim_build_from_source.sh AdminScripts/vim_build_from_source.sh at master · unixbhaskar/AdminScripts
+https://stackoverflow.com/questions/61379318/how-to-copy-from-vim-to-system-clipboard-using-wayland-and-without-compiled-vim How to copy from Vim to system clipboard using wayland and without compiled vim `+clipboard` feature flag - Stack Overflow
+https://github.com/kawarimidoll/vim-overlay kawarimidoll/vim-overlay: Nix flake to install Vim head
+https://github.com/nix-community/neovim-nightly-overlay nix-community/neovim-nightly-overlay: [maintainer=@GaetanLepage, @willruggiano]
+https://vonheikemen.github.io/devlog/tools/build-your-first-lua-config-for-neovim/ Build your first Neovim configuration in lua | Devlog
+https://github.com/VonHeikemen/nvim-starter/blob/01-base/init.lua nvim-starter/init.lua at 01-base · VonHeikemen/nvim-starter
+https://gist.github.com/joshukraine/b9085aeb3dd762cf1d1e1c356974032f compile-vim.md
+https://groups.google.com/g/vim_use/c/ng9we1ZIO-I Persistent undo and swapfile
+https://github.com/mhinz/vim-startify/blob/master/doc/startify.txt vim-startify/doc/startify.txt at master · mhinz/vim-startify
+https://beyermatthias.de/how-to-setup-neo-vim-on-nixos How to setup (neo)vim on NixOS — musicmatzes blog
+https://github.com/nanotee/nvim-lua-guide/ nanotee/nvim-lua-guide: A guide to using Lua in Neovim
+https://learnvimscriptthehardway.stevelosh.com/chapters/17.html Status Lines / Learn Vimscript the Hard Way
+https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/ Using Netrw
+https://thevaluable.dev/vim-browsing-remote-netrw/ Managing Local and Remote Filesystems with Vim and netrw
+https://github.com/yukimura1227/vim-yazi yukimura1227/vim-yazi: Vim plugin integrating the Yazi file manager for seamless in-editor file browsing and navigation.
+https://github.com/lrestj/nixos My github
+https://librephoenix.com/2024-03-14-managing-your-nixos-config-with-git.html Managing Your NixOS Config with Git
+https://github.com/lrestj?tab=repositories Your Repositories
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax Basic writing and formatting syntax - GitHub Docs
+https://www.freecodecamp.org/news/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff/ Why you should be using fzf, the command line fuzzy finder
+https://coolsymbol.com/ Cool Symbols & Cool Fonts - Symbols, Emoji & Fonts ✮✢❂✶✧
+https://www.freeiconspng.com/ Free Icons and PNG
+https://www.pngegg.com/ PNGEgg - Exclusive sticker png images
+https://www.pngwing.com/ PNGWing - png images
+https://www.siberoloji.com/managing-file-associations-in-linux-mint/ File Associations in Linux
+https://klient.magnalink.cz/information/ Magnalink
+https://www.speedtest.net/?a=1 Speedtest by Ookla
+http://tplinkwifi.net/webpages/index.html?t=d6aa95cb AX1800 Wi-Fi 6 Router
+https://tenantportal.techem.cz/cms/cs/login/index.html?stateDone=1 Portál pro nájemníky Techem
+https://www.holime.cz/philips-s1142-00-holici-strojek?tab=accessories Philips S1142/00 holicí strojek - Holime.cz
+https://tools.pdf24.org/en/compress-pdf Compress PDF 
+https://mail.google.com/mail/u/0/#inbox Gmail
+https://www.sdilej.cz/ Sdilej.cz 
+https://prehrajto.cz/ Přehraj.to
+https://www.titulky.com/ Titulky.com
+https://www.youtube.com/ YouTube
+https://rgbacolorpicker.com/hex-to-rgba Hex to RGBA
+https://emojidb.org/drive-emojis?utm_source=user_search Emoji
+https://www.freeconvert.com/png-to-svg/download Converter
+https://fsymbols.com/font ✍ Symbol font
+https://github.com/xdeb-org/xdeb Xdeb github
+https://github.com/brave/brave-browser/releases Brave-browser
+https://github.com/grvn/void-packages/blob/main/srcpkgs/ly/template void-packages/srcpkgs/ly/template at main · grvn/void-packages
+https://erika.florist/wiki/linux/niri/ Niri tips, tricks and tweaks
+https://github.com/MintyDoggo/miri MintyDoggo/miri: A niri extension adding optional tiling layouts such as Master Stack. Provides similar experience to hyprland or mangowm.
+https://www.google.com/search?q=how+to+detect+new+niri+window+via+ipc&oq=how+to+detect+new+niri+window+via+ipc&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTMxOTA1ajBqOagCALACAQ&sourceid=chrome-mobile&ie=UTF-8#lfId=ChxjMe how to detect new niri window via ipc - Hledat Googlem
+https://askubuntu.com/questions/532714/missing-nemo-right-click-extract-compress-files 14.04 - Missing nemo right-click "extract/compress files" - Ask Ubuntu
+https://unix.stackexchange.com/questions/336368/how-to-configure-nemos-right-click-open-in-terminal-to-launch-gnome-terminal How to configure Nemo's right-click "Open in Terminal" to launch "gnome-terminal" - Unix & Linux Stack Exchange
+https://discourse.nixos.org/t/setting-tty-fonts/14799/2 Setting TTY fonts - Help - NixOS Discourse
+https://github.com/niri-wm/niri/discussions/325 Setup Showcase · niri-wm/niri · Discussion #325
+https://www.google.com/search?q=set+papirus-folders&oq=set+papirus-folders&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEzMDkwajBqOagCALACAQ&sourceid=chrome-mobile&ie=UTF-8#lfId=ChxjMe set papirus-folders - Hledat Googlem
+https://github.com/nix-community/nh nix-community/nh: Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
+https://www.google.com/search?q=how+to+go+back+to+nvidia+580.126+driver+in+nixos&sca_esv=2da44a833aa204c9&sxsrf=ANbL-n4Bx_IisJQDhgzDw9MaE143bVQEsQ%3A1775134852490&ei=hGjOadTJHfOA9u8Pgr7zkAQ&biw=375&bih=643&oq=how+to+go+back+to+nvidia+580.126+driver+in+nixos&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIjBob3cgdG8gZ28gYmFjayB0byBudmlkaWEgNTgwLjEyNiBkcml2ZXIgaW4gbml4b3MyCBAAGIAEGKIEMgUQABjvBTIFEAAY7wUyBRAAGO8FSJjWAlDWRliz0AJwBXgBkAEAmAH4AaAB6jaqAQY2LjM3Lje4AQPIAQD4AQGYAjegAr0_qAItwgIKEAAYsAMY1gQYR8ICBxAjGCcY6gLCAg0QIxjwBRgnGOoCGJ4GwgIKECMY8AUYJxjqAsICEBAAGAMYtAIY6gIYjwHYAQHCAhAQLhgDGLQCGOoCGI8B2AEBwgILEAAYgAQYsQMYgwHCAgoQABiABBhDGIoFwgIFEC4YgATCAggQABiABBixA8ICDhAuGIAEGLEDGNEDGMcBwgIOEAAYgAQYsQMYgwEYigXCAgQQIxgnwgIFEAAYgATCAgsQABiABBixAxiKBcICCBAuGIAEGLEDwgIEEAAYA8ICCBAAGIAEGMsBwgIGEAAYFhgewgIIEAAYFhgKGB7CAgUQIRigAcICBRAhGJ8FwgIHECEYoAEYCsICBBAhGArCAgQQIRgVmAMo8QUTIJksnPFcGogGAZAGCLoGBAgBGAqSBwY1LjQxLjmgB-TFArIHBjAuNDEuObgHsj7CBwkyLTEuMjQuMzDIB7YIgAgA&sclient=mobile-gws-wiz-serp#lfId=ChxjMe how to go back to nvidia 580.126 driver in nixos - Hledat Googlem
+https://www.google.com/search?q=niri+in+void+does+not+start+with+nvidia&oq=niri+in+void+does+not+start+with+nvidia&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTI3MzUxajBqOagCALACAQ&sourceid=chrome-mobile&ie=UTF-8 niri in void does not start with nvidia - Hledat Googlem
+https://github.com/NixOS/nixpkgs/tree/master/nixos/modules/installer/cd-dvd nixpkgs/nixos/modules/installer/cd-dvd at master · NixOS/nixpkgs
+https://linuxize.com/post/bash-read/ Bash read Command | Linuxize
+https://github.com/MahdiMirzadeh/Dotfiles/blob/main/.config/qutebrowser/config.py Dotfiles/.config/qutebrowser/config.py at main · MahdiMirzadeh/Dotfiles
