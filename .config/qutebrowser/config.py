@@ -12,7 +12,6 @@ c.url.default_page = "about:blank"
 config.set("downloads.position","bottom")
 
 # GTK file picker
-# c.fileselect.handler = "external"
 c.fileselect.handler = "external"
 c.fileselect.single_file.command = ['zenity', '--file-selection', '--title=Vyber soubor']
 c.fileselect.multiple_files.command = ['zenity', '--file-selection', '--multiple', '--title=Vyber soubory']
@@ -20,8 +19,6 @@ c.fileselect.folder.command = ['zenity', '--file-selection', '--directory', '--t
 
 # Google search default
 c.url.searchengines = {'DEFAULT': 'https://google.com/search?q={}'}
-
-# Colors
 
 # Set Colors
 palette = {
