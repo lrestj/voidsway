@@ -59,6 +59,13 @@ sudo ln -s /etc/sv/dbus /var/service/
 sudo ln -s /etc/sv/chronyd /var/service/
 mkdir Dokumenty Videa Hudba Stažené Public Templates
 
+echo
+echo "###################################"
+echo "#  Reconfig initramfs...  #"
+echo "###################################"
+exec $HOME/.local/bin/inreconf
+
+echo
 echo "###################################"
 echo "#  Konfigurace git repozitáře...  #"
 echo "###################################"
