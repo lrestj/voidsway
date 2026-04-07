@@ -13,10 +13,10 @@ config.set("downloads.position","bottom")
 
 # GTK file picker
 # c.fileselect.handler = "external"
-config.set("fileselect.handler", "external")
-c.fileselect.single_file.command = ['zenity', '--file-selection', '--title=Select File']
-c.fileselect.multiple_files.command = ['zenity', '--file-selection', '--multiple', '--title=Select Files']
-c.fileselect.folder.command = ['zenity', '--file-selection', '--directory', '--title=Select Folder']
+c.fileselect.handler = "external"
+c.fileselect.single_file.command = ['zenity', '--file-selection', '--title=Vyber soubor']
+c.fileselect.multiple_files.command = ['zenity', '--file-selection', '--multiple', '--title=Vyber soubory']
+c.fileselect.folder.command = ['zenity', '--file-selection', '--directory', '--title=Vyber složku']
 
 # Google search default
 c.url.searchengines = {'DEFAULT': 'https://google.com/search?q={}'}
