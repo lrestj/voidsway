@@ -1,7 +1,7 @@
 * {
     /* `otf-font-awesome` is required to be installed for icons */
     font-family: FontAwesome, Hack Nerd Fonts, Roboto, Helvetica, Arial, sans-serif;
-    font-size: 13px;
+    font-size: 11px;
 }
 
 window#waybar {
@@ -190,7 +190,7 @@ button:hover {
 }
 
 #custom-scan{
-    font-size: 17px;
+    font-size: 13px;
     background-image: url('/home/libor/.local/share/icons/skener.png');
     background-position: center;
     background-repeat: no-repeat;
@@ -199,7 +199,7 @@ button:hover {
 }
     
 #custom-office{
-    font-size: 18px;
+    font-size: 14px;
     background-image: url('/home/libor/.local/share/icons/libreoffice.png');
     background-position: center;
     background-repeat: no-repeat;
@@ -207,14 +207,14 @@ button:hover {
 }
 
 #custom-kalk{
-    font-size: 18px;
+    font-size: 14px;
     background-image: url('/home/libor/.local/share/icons/galculator.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
 }
 #custom-text{
-    font-size: 20px;
+    font-size: 16px;
     background-image: url('/home/libor/.local/share/icons/notes.png');
     background-position: center;
     background-repeat: no-repeat;
@@ -223,7 +223,7 @@ button:hover {
 }
 
 #custom-fm{
-    font-size: 18px;
+    font-size: 14px;
     background-image: url('/home/libor/.local/share/icons/nautilus.svg');
     background-position: center;
     background-repeat: no-repeat;
@@ -231,7 +231,7 @@ button:hover {
 }
 
 #custom-browser{
-    font-size: 19px;
+    font-size: 15px;
     background-image: url('/home/libor/.local/share/icons/brave.png');
     background-position: center;
     background-repeat: no-repeat;

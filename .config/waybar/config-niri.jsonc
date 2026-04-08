@@ -5,7 +5,7 @@
 [{
     // "layer": "top", // Waybar at top layer
     // "position": "bottom", // Waybar position (top|bottom|left|right)
-    "height": 33, // Waybar height (to be removed for auto height)
+    "height": 29, // Waybar height (to be removed for auto height)
     "autohide": true,
     "autohide-blocked": false,
     "margin-top": 3,
@@ -121,7 +121,7 @@
 
     "pulseaudio": {
         // "scroll-step": 1, // %, can be a float
-        "format": "Zvuk {volume}% {icon} {format_source}",
+        "format": "Zvuk {volume}% {icon}   {format_source}",
         "format-bluetooth": "{volume}% {icon} {format_source}",
         "format-bluetooth-muted": " {icon} {format_source}",
         "format-muted": " {format_source}",
@@ -168,7 +168,7 @@
         },
         "format": "{capacity}% {icon} ",
         "format-full": "{capacity}% {icon} ",
-        "format-charging": "{capacity}% ",
+        "format-charging": "{capacity}% 󰢝",
         "format-plugged": "{capacity}% ",
         "format-alt": "{time} {icon}",
         // "format-good": "", // An empty format will hide the module

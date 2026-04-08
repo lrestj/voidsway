@@ -28,7 +28,6 @@
 .config/vim/undodir/
 .config/xfce4/xfconf/
 .config/xournalpp
-.config/yazi/plugins/mount.yazi/
 .config/ytdownloader/
 .cups/
 .dotfiles/voidLiveIso/etc/skel
